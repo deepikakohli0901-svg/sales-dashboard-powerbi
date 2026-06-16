@@ -56,4 +56,4 @@ To analyze sales data and generate meaningful insights like revenue growth, prof
 
 ## 👩‍💻 Author
 Deepika Kohli  
-BCA Student | Aspiring Data Analyst
+BCA Student
