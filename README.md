@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project is an interactive Sales Analytics Dashboard built using Power BI. It helps analyze sales performance, profit, revenue, and category-wise trends to support better business decisions.
-![HR Dashboard]
+![HR Dashboard](https://github.com/deepikakohli0901-svg/sales-dashboard-powerbi/blob/main/Sales%20Dashboard%20image%20.png?raw=true)
 
 ---
 
